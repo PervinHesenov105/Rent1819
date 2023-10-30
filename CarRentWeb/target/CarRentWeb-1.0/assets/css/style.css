@@ -1,0 +1,21 @@
+.search_container{
+    margin: 20px;
+    width: 300px;
+}
+
+.mytb{
+    width: 95%;
+    margin: auto;
+}
+
+.detail_container{
+    margin: auto;
+    width: 300px;
+}
+
+.detail_container button{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 2px solid yellow;
+}

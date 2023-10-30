@@ -1,0 +1,9 @@
+az\rent\main\main\CarRentalJPA.class
+az\rent\main\entity\Category.class
+az\rent\main\entity\Category_.class
+az\rent\main\dao\impl\CarDaoImpl.class
+az\rent\main\entity\Car.class
+az\rent\main\config\AbstractPU.class
+az\rent\main\config\Context.class
+az\rent\main\dao\inter\CarDaoInter.class
+az\rent\main\entity\Car_.class
